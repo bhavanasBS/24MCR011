@@ -3,3 +3,4 @@ Roll.NO:24MCR011
 Dept:MCA
 
 Fav.Topic: Java 
+Mobile Model : Vivo T3x  
