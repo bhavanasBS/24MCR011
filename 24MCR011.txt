@@ -4,3 +4,4 @@ Dept:MCA
 
 Fav.Topic: Java 
 Mobile Model : Vivo T3x  
+Fav food: Briyani
